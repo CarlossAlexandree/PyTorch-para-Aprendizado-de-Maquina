@@ -32,7 +32,7 @@ Este repositório reúne notebooks interativos e aplicações visuais construíd
 
 ## 🙌 Contato
 
-Quer falar comigo? [LinkedIn](https://www.linkedin.com/) | [Instagram](https://www.instagram.com/) | Email: seuemail@exemplo.com
+Quer falar comigo? [LinkedIn](www.linkedin.com/in/carlos-santiago-ai/) | [Instagram](www.instagram.com/carlos.alexandre2017/)) | Email: santiago.profissional@hotmail.com
 
 ---
 
